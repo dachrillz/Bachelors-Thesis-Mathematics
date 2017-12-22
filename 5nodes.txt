@@ -1,0 +1,2 @@
+Error Spline:  0.000832887458558
+Error Network:  0.000683120487458
